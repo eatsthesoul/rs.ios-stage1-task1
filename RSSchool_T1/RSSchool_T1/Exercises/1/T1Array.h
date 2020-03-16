@@ -3,5 +3,4 @@
 @interface T1Array : NSObject
 
 - (NSArray *)convertToHappy:(NSArray *)sadArray;
-
 @end
